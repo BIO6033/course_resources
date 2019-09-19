@@ -11,10 +11,11 @@
 ## Membres de cours
 
 * Andrew MacDonald
-*
-*
-*
-*
+* Jonathan Nguyen
+* 
+* Jeanne Racicot
+* Gracielle Higino
+
 
 
 installation du git
