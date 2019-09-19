@@ -4,6 +4,8 @@
 ## Membres de cours
 
 * Andrew MacDonald
+* Jonathan Nguyen
+* 
 *
 *
 *
