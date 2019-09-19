@@ -6,9 +6,8 @@
 * Andrew MacDonald
 * Jonathan Nguyen
 * 
-*Jeanne Racicot
-*
-
+* Jeanne Racicot
+* Gracielle Higino
 
 
 
