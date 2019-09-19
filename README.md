@@ -4,10 +4,10 @@
 ## Membres de cours
 
 * Andrew MacDonald
+* Jonathan Nguyen
+* 
 *
-*
-*
-*
+* 
 
 
 installation du git
