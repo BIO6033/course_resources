@@ -6,10 +6,13 @@
 * Andrew MacDonald
 * Jonathan Nguyen
 * 
-* Jeanne Racicot
+* Jeanne Racicot 
 * Gracielle Higino
 
 
 
 installation du git
 happygitwithr.com
+
+install.packages("tidyverse")
+
