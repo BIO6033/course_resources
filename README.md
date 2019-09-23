@@ -18,8 +18,12 @@
 
 
 
-installation du git
+## installation du git
+
 happygitwithr.com
 
 install.packages("tidyverse")
 
+## Machine learning resources
+
+https://juliasilge.com/blog/supervised-ml-course/
