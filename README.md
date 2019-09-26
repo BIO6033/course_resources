@@ -21,9 +21,9 @@ happygitwithr.com
 
 ## Data sources
 
-[Data is Plural](https://tinyletter.com/data-is-plural)
-[Données ouvertes Montrèal](http://donnees.ville.montreal.qc.ca/)
-[Tidy Tuesday](https://github.com/rfordatascience/tidytuesday)
+1. [Data is Plural](https://tinyletter.com/data-is-plural)
+2. [Données ouvertes Montrèal](http://donnees.ville.montreal.qc.ca/)
+3. [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday)
 
 ## installation du git
 
