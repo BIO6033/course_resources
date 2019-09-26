@@ -18,7 +18,7 @@ happygitwithr.com
 
 * Andrew MacDonald
 * Jonathan Nguyen
-* 
+* Marie Levet
 * Jeanne Racicot 
 * Gracielle Higino
 
