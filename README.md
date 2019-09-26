@@ -15,7 +15,8 @@ happygitwithr.com
 
 * Andrew MacDonald
 * Jonathan Nguyen
-* Jeanne Racicot
+* 
+* Jeanne Racicot 
 * Gracielle Higino
 
 ## Data sources
@@ -24,6 +25,17 @@ happygitwithr.com
 [Données ouvertes Montrèal](http://donnees.ville.montreal.qc.ca/)
 [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday)
 
+## installation du git
+
+happygitwithr.com
+
+install.packages("tidyverse")
+
+## Machine learning resources
+
+https://juliasilge.com/blog/supervised-ml-course/
+
+--------
 
 # Projects
 
@@ -47,3 +59,5 @@ happygitwithr.com
 1. Le code est-il clairement commenté et facile à suivre?
 1. Est-ce reproductible?
 1. Y a-t-il une manière différente de faire la même chose? Proposer un changement.
+
+
