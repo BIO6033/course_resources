@@ -1,3 +1,4 @@
+**9h à 12h B2278**
 
 # Resources de cours BIO6033
 
@@ -15,15 +16,17 @@ happygitwithr.com
 
 * Andrew MacDonald
 * Jonathan Nguyen
-*
 * Jeanne Racicot
+* Marie Levet
+* Arhama Maiga
+* Jeanne Racicot 
 * Gracielle Higino
 
 ## Data sources
 
-[Data is Plural](https://tinyletter.com/data-is-plural)
-[Données ouvertes Montrèal](http://donnees.ville.montreal.qc.ca/)
-[Tidy Tuesday](https://github.com/rfordatascience/tidytuesday)
+1. [Data is Plural](https://tinyletter.com/data-is-plural)
+2. [Données ouvertes Montrèal](http://donnees.ville.montreal.qc.ca/)
+3. [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday)
 
 ## installation du git
 
