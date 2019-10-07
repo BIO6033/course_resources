@@ -34,7 +34,7 @@ happygitwithr.com
 
 install.packages("tidyverse")
 
-## Machine learning resources
+## General machine learning resources
 
 Les ressources de haut qualité et *gratuites*
 
@@ -42,17 +42,18 @@ Les ressources de haut qualité et *gratuites*
 2. https://leanpub.com/datasciencebook (**choisissez 0$ pour le prix**)
 2. https://ubc-dsci.github.io/introduction-to-datascience
   
+## Lectures 10 Octobre
 
-## Naive Bayes
+### Naive Bayes
 * https://towardsdatascience.com/naive-bayes-intuition-and-implementation-ac328f9c9718
 * https://medium.com/syncedreview/applying-multinomial-naive-bayes-to-nlp-problems-a-practical-explanation-4f5271768ebf
 * https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/
 
-## likelihood vs probability
+### likelihood vs probability
 * https://www.youtube.com/watch?v=pYxNSUDSFH4
 * https://acarril.github.io/posts/probability-likelihoods
 
-## k-NN
+### k-NN
 * https://ubc-dsci.github.io/introduction-to-datascience/classification.html
 
 --------
