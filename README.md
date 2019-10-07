@@ -36,16 +36,24 @@ install.packages("tidyverse")
 
 ## Machine learning resources
 
-https://juliasilge.com/blog/supervised-ml-course/
+Les ressources de haut qualité et *gratuites*
+
+1. https://juliasilge.com/blog/supervised-ml-course/
+2. https://leanpub.com/datasciencebook (**choisissez 0$ pour le prix**)
+2. https://ubc-dsci.github.io/introduction-to-datascience
+  
 
 ## Naive Bayes
-https://towardsdatascience.com/naive-bayes-intuition-and-implementation-ac328f9c9718
-https://medium.com/syncedreview/applying-multinomial-naive-bayes-to-nlp-problems-a-practical-explanation-4f5271768ebf
-https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/
+* https://towardsdatascience.com/naive-bayes-intuition-and-implementation-ac328f9c9718
+* https://medium.com/syncedreview/applying-multinomial-naive-bayes-to-nlp-problems-a-practical-explanation-4f5271768ebf
+* https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/
 
 ## likelihood vs probability
-https://www.youtube.com/watch?v=pYxNSUDSFH4
-https://acarril.github.io/posts/probability-likelihoods
+* https://www.youtube.com/watch?v=pYxNSUDSFH4
+* https://acarril.github.io/posts/probability-likelihoods
+
+## k-NN
+* https://ubc-dsci.github.io/introduction-to-datascience/classification.html
 
 --------
 
