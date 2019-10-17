@@ -89,7 +89,7 @@ Les ressources de haut qualité et *gratuites*
 `read_csv("https://raw.githubusercontent.com/the-pudding/data/master/pockets/measurements.csv")`
 * Utilisez la cross validation pour sélectionner une valeur de K
 * calculer une matrice de confusion en utilisant cette valeur
-* prédictions du modèle de parcelle.
+* Visualizer les prédictions du modèle
 
 ## Option B 
 essayez de lancer un classificateur bayésien naïf avec les données du cancer du sein `wdbc`.
