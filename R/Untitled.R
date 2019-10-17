@@ -1,6 +1,6 @@
 library(purrr)
 library(stringr)
-
+library(dplyr)
 
 # first load the names data: ----------------------------------------------
 
@@ -32,3 +32,4 @@ all_cols <- c(nice_names[1:2], correct_cols)
 # now read in data with the correct names
 wdbc_data <- readr::read_csv("https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data", col_names = all_cols)
 
+readr::write_csv(wdbc_data, "data/wdbc.csv")
