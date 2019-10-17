@@ -92,3 +92,4 @@ Les ressources de haut qualité et *gratuites*
 * Cancer donnees
 * insect data:
 `readr::read_tsv("https://raw.githubusercontent.com/shchurch/insect_egg_database_viz/master/data/dataviz_egg_database.csv")`
+* Data oiseaux: https://science.sciencemag.org/content/suppl/2017/06/21/356.6344.1249.DC1
