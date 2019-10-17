@@ -1,4 +1,4 @@
-**9h à 12h B2278**
+**9h à 12h B4114**
 
 # Resources de cours BIO6033
 
@@ -83,13 +83,26 @@ Les ressources de haut qualité et *gratuites*
 
 # Project 2: classification
 
-* jeu de donnes
+## Option A
+
+* Refaire le analyse du k-NN avec les données sur les poches:
+`read_csv("https://raw.githubusercontent.com/the-pudding/data/master/pockets/measurements.csv")`
+* Utilisez la cross validation pour sélectionner une valeur de K
+* calculer une matrice de confusion en utilisant cette valeur
+* prédictions du modèle de parcelle.
+
+## Option B 
+essayez de lancer un classificateur bayésien naïf avec les données du cancer du sein `wdbc`.
+* diviser les données en ensembles de "training" et de "test" et calculer une matrice de confusion
+* notez qu'il n'y a pas de paramètre à sélectionner, et donc pas besoin d'utiliser la validation croisée
+* comparer avec la classification k-NN
+
+## Option C
+Choix de données et de modèle
 * entrainer une modèle CBN *ou* k-NN
 * choiser quelques lignes des donnees OU inventez des observations
-* re-classifier ces lignes.. c'est quoi la reponse? 
 
-*Sources de données*
-* Cancer donnees
+*Sources de données possibles*
 * insect data:
 `readr::read_tsv("https://raw.githubusercontent.com/shchurch/insect_egg_database_viz/master/data/dataviz_egg_database.csv")`
 * Data oiseaux: https://science.sciencemag.org/content/suppl/2017/06/21/356.6344.1249.DC1
