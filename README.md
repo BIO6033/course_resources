@@ -41,7 +41,9 @@ Les ressources de haut qualité et *gratuites*
 1. https://juliasilge.com/blog/supervised-ml-course/
 2. https://leanpub.com/datasciencebook (**choisissez 0$ pour le prix**)
 2. https://ubc-dsci.github.io/introduction-to-datascience
-  
+3. https://ggplot2.tidyverse.org/
+
+
 ## Lectures 10 Octobre
 
 ### Naive Bayes
