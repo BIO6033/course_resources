@@ -59,6 +59,7 @@ Les ressources de haut qualité et *gratuites*
 ### Regression trees
 * https://rafalab.github.io/dsbook/examples-of-algorithms.html#classification-and-regression-trees-cart
 * the `rpart` vignette: https://stat.ethz.ch/R-manual/R-devel/library/rpart/doc/longintro.pdf
+* [Classification trees: Nature methods](https://www.nature.com/articles/nmeth.4370)
 
 --------
 
