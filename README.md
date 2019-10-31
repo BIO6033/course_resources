@@ -56,6 +56,10 @@ Les ressources de haut qualité et *gratuites*
 ### k-NN
 * https://ubc-dsci.github.io/introduction-to-datascience/classification.html
 
+### Regression trees
+* https://rafalab.github.io/dsbook/examples-of-algorithms.html#classification-and-regression-trees-cart
+* the `rpart` vignette: https://stat.ethz.ch/R-manual/R-devel/library/rpart/doc/longintro.pdf
+
 --------
 
 # Projects
