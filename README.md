@@ -53,7 +53,6 @@ Les ressources de haut qualité et *gratuites*
 
 ### likelihood vs probability
 * https://www.youtube.com/watch?v=pYxNSUDSFH4
-* https://acarril.github.io/posts/probability-likelihoods
 
 ### k-NN
 * https://ubc-dsci.github.io/introduction-to-datascience/classification.html
