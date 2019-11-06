@@ -62,6 +62,10 @@ Les ressources de haut qualité et *gratuites*
 * the `rpart` vignette: https://stat.ethz.ch/R-manual/R-devel/library/rpart/doc/longintro.pdf
 * [Classification trees: Nature methods](https://www.nature.com/articles/nmeth.4370)
 
+### Random Forests
+
+I'm interested in this [Random Forest Explainer](https://cran.rstudio.com/web/packages/randomForestExplainer/vignettes/randomForestExplainer.html)
+
 --------
 
 # Projects
