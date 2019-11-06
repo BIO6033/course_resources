@@ -66,6 +66,8 @@ Les ressources de haut qualité et *gratuites*
 
 I'm interested in this [Random Forest Explainer](https://cran.rstudio.com/web/packages/randomForestExplainer/vignettes/randomForestExplainer.html)
 
+Nature "points of signifigance" series on [classification and regression trees](https://www.nature.com/articles/nmeth.4370) and also [ensemble methods and random forests](https://www.nature.com/articles/nmeth.4438)
+
 --------
 
 # Projects
