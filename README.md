@@ -12,6 +12,9 @@
 ## Installation guides
 happygitwithr.com
 
+https://github.com/calligross/ggthemeassist
+`install.packages("ggThemeAssist")`
+
 ## Membres de cours
 
 * Andrew MacDonald
@@ -42,6 +45,7 @@ Les ressources de haut qualité et *gratuites*
 2. https://leanpub.com/datasciencebook (**choisissez 0$ pour le prix**)
 2. https://ubc-dsci.github.io/introduction-to-datascience
 3. https://ggplot2.tidyverse.org/
+4. https://www.nature.com/collections/qghhqm/pointsofsignificance
 
 
 ## Lectures 10 Octobre
@@ -67,6 +71,10 @@ Les ressources de haut qualité et *gratuites*
 I'm interested in this [Random Forest Explainer](https://cran.rstudio.com/web/packages/randomForestExplainer/vignettes/randomForestExplainer.html)
 
 Nature "points of signifigance" series on [classification and regression trees](https://www.nature.com/articles/nmeth.4370) and also [ensemble methods and random forests](https://www.nature.com/articles/nmeth.4438)
+
+["out of bag" error](https://towardsdatascience.com/what-is-out-of-bag-oob-score-in-random-forest-a7fa23d710) (notez: "DT" veut dire "Decision Tree")
+
+https://github.com/njtierney/broomstick
 
 --------
 
