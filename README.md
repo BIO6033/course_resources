@@ -65,7 +65,7 @@ Les ressources de haut qualité et *gratuites*
 * https://rafalab.github.io/dsbook/examples-of-algorithms.html#classification-and-regression-trees-cart
 * the `rpart` vignette: https://stat.ethz.ch/R-manual/R-devel/library/rpart/doc/longintro.pdf
 * [Classification trees: Nature methods](https://www.nature.com/articles/nmeth.4370)
-
+* https://www.youtube.com/watch?v=7VeUPuFGJHk
 ### Random Forests
 
 I'm interested in this [Random Forest Explainer](https://cran.rstudio.com/web/packages/randomForestExplainer/vignettes/randomForestExplainer.html)
@@ -75,6 +75,9 @@ Nature "points of signifigance" series on [classification and regression trees](
 ["out of bag" error](https://towardsdatascience.com/what-is-out-of-bag-oob-score-in-random-forest-a7fa23d710) (notez: "DT" veut dire "Decision Tree")
 
 https://github.com/njtierney/broomstick
+
+https://www.youtube.com/watch?v=J4Wdy0Wc_xQ
+https://www.youtube.com/watch?v=nyxTdL_4Q-Q
 
 --------
 
