@@ -66,6 +66,7 @@ Les ressources de haut qualité et *gratuites*
 * the `rpart` vignette: https://stat.ethz.ch/R-manual/R-devel/library/rpart/doc/longintro.pdf
 * [Classification trees: Nature methods](https://www.nature.com/articles/nmeth.4370)
 * https://www.youtube.com/watch?v=7VeUPuFGJHk
+
 ### Random Forests
 
 I'm interested in this [Random Forest Explainer](https://cran.rstudio.com/web/packages/randomForestExplainer/vignettes/randomForestExplainer.html)
@@ -78,6 +79,12 @@ https://github.com/njtierney/broomstick
 
 https://www.youtube.com/watch?v=J4Wdy0Wc_xQ
 https://www.youtube.com/watch?v=nyxTdL_4Q-Q
+
+
+### mixed effects models
+
+TJ Mahr's [excellent blog post](https://www.tjmahr.com/another-mixed-effects-model-visualization/)
+This [online book](https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/multilevel-models.html) reproduces Statistical Rethinking entirely with the tools we have studied
 
 --------
 
